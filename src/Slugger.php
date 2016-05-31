@@ -11,7 +11,6 @@ class Slugger implements SluggerInterface {
         $name = preg_replace('/\s+/', ' ', $name);
 
         $name = trim($name);
-
         $name = str_replace(' ', $separator, $name);
 
         return $name;
