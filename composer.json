@@ -1,0 +1,17 @@
+{
+    "name": "nacholibre/utils",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoan Arnaudov",
+            "email": "jonidev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"nacholibre\\Utils\\": "src"}
+    },
+    "require": {
+        "php": ">=5.5.34"
+    }
+}
