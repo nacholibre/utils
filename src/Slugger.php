@@ -1,6 +1,6 @@
 <?php
 
-namespace nacholibre\Utils;
+namespace Nacholibre\Utils;
 
 class Slugger implements SluggerInterface {
     public function slugify($string, $separator = '-') {

@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"nacholibre\\Utils\\": "src"}
+        "psr-4": {"Nacholibre\\Utils\\": "src"}
     },
     "require": {
         "php": ">=5.5.34"
